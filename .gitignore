@@ -1,0 +1,36 @@
+# Compilados de Java
+*.class
+
+# Carpetas de salida
+/out/
+/build/
+
+# Archivos de IntelliJ IDEA
+.idea/
+*.iml
+
+# Archivos de NetBeans
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# Archivos de VSCode
+.vscode/
+
+# Ficheros del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de logs
+*.log
+
+# Archivos de documentación generada
+/javadoc/
+
+# Otros
+*.tmp
+*.bak
+*.swp
