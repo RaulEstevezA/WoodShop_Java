@@ -53,6 +53,19 @@ This project manages products, stores, registered and anonymous customers, and r
 - **CargarDatos Class**: Preloads sample data including products, stores, customers, and tickets.
 - **Javadoc**: Full documentation generated for all classes.
 
+### New in AA5
+- **Sales Summary by Store Between Two Dates**  
+  New functionality allows you to generate a report that summarizes the total revenue per store based on a date range.
+- **New Method: `calcularTotal()`**  
+  Each ticket can now calculate its total value directly, including applied discounts.
+- **New Method in `Tiendas`: `calcularVentasEntreFechas()`**  
+  Computes and prints the total of all tickets in a store within a specific date range.
+- **Input Validation Enhancement**  
+  A new utility method `Verificadores.pedirDosFechas()` ensures that the end date is never earlier than the start date.
+- **Menu Option 10 Added**  
+  The new summary report is accessible from the console through a dedicated menu option.
+
+
 ---
 
 ## Project Folder Structure
@@ -129,7 +142,8 @@ git clone https://github.com/your_username/WoodShop_Java.git
 - **Customer Validation**: Prevents duplicate customer registration based on DNI.
 - **Complete Ticket Output**: Tickets show discount, detailed purchases, and total prices.
 - **Date Range Filtering**: Allows listing tickets within a specific time range.
-- **Differentiated Customer Types**: Anonymous, Professional, and WoodFriend handled distinctly.
+- **Sales Summary by Store**: New AA5 feature to calculate and display total sales per store for a selected time interval.
+- **Improved Date Validation**: Ensures the second date entered is never earlier than the first.
 
 ---
 
