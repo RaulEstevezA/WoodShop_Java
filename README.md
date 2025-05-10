@@ -72,8 +72,8 @@ This project manages products, stores, registered and anonymous customers, and r
 
 ```
 WoodShop_Java/
-├── src/aa4_woodshops/
-│   ├── AA4_WoodShops.java
+├── src/aa5_woodshops/
+│   ├── AA5_WoodShops.java
 │   ├── Articulo.java
 │   ├── Barniz.java
 │   ├── CargarDatos.java
