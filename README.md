@@ -151,8 +151,8 @@ git clone https://github.com/your_username/WoodShop_Java.git
 
 **Raúl Estévez Abella**
 
-- 🌐 [Personal Website](https://raulesteveza.github.io/)
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/raulesteveza/)
+- [Personal Website](https://raulesteveza.github.io/)
+- [LinkedIn Profile](https://www.linkedin.com/in/raulesteveza/)
 
 Feel free to connect and discover more projects!
 
@@ -165,5 +165,5 @@ You are free to use, modify, and distribute it with proper attribution.
 
 ---
 
-# 🚀 Thank you for visiting!
+# Thank you for visiting!
 
